@@ -1,0 +1,57 @@
+<style>
+
+#header {
+	margin:0px;
+	padding:0px;
+}
+
+.mainheader {
+	background-color:#225a6f;
+	width:100%;
+	height:65px;
+}
+
+.headerleft {
+	padding-left:150px;
+	padding-top:2px;
+	padding-bottom:1px;
+	float:left;
+}
+
+.headerright {
+	padding-right:200px;
+	padding-top:12px;
+	float:right;
+}
+
+.boxdimension {
+	height:30px;
+	width:200px;
+}
+
+.buttonlogin {
+	height:30px;
+	width:80px;
+	background:#5891a7;
+	border-radius:5px;
+}
+
+.buttonlogin:hover {
+	cursor:pointer;
+	background-color:#225a6f;
+}
+
+.forgotpassword {
+	right: 314px;
+	position: absolute;
+	top: 43px;
+	color: #ddd;
+	font-size: 15px;
+}
+
+a {
+	text-decoration:none;
+}
+
+
+</style>

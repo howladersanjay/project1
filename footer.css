@@ -1,0 +1,23 @@
+<style>
+
+#mainfooter {
+	margin:0px;
+	padding:0px;
+}
+
+#actualfooter {
+	margin:0px auto;
+	width:980px;
+	background-color:#403e3e;
+	height:100px;
+}
+
+li {
+	list-style:none;
+	float:left;
+	padding-left:40px;
+	padding-top:20px;
+	color:#ddd;
+}
+
+</style>

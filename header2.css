@@ -1,0 +1,46 @@
+<style>
+
+#header2 {
+	margin:0px;
+	padding:0px;
+}
+
+.headermain {
+	height:65px;
+	background-color:#225a6f;
+}
+
+.logoleft {
+	padding-left:150px;
+	padding-top:2px;
+	padding-bottom:1px;
+	float:left;
+}
+
+.centerheader {
+	float:left;
+	width:400px;
+	padding-left:50px;
+	padding-top:17px;
+}
+
+.searchbox {
+	height:30px;
+	width:350px;
+	padding-left:10px;
+}
+
+.rightpart {
+	float:right;
+	width:300px;
+	padding-top:10px;
+}
+
+.rightpart li {
+	list-style:none;
+	float:left;
+	padding-right:10px;
+	color:#ddd;
+}
+
+</style>
